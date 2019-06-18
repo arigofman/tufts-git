@@ -1,2 +1,4 @@
 My name is Ari Gofman. 
 I am the social science data librarian at Tisch library. 
+
+Ari is also a software carpentry instructor.
